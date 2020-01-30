@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractBotService", "ExtractBotService\ExtractBotService.csproj", "{8DA4A5D4-6EAA-4065-8BDD-93E36829558E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA4A5D4-6EAA-4065-8BDD-93E36829558E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA4A5D4-6EAA-4065-8BDD-93E36829558E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA4A5D4-6EAA-4065-8BDD-93E36829558E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA4A5D4-6EAA-4065-8BDD-93E36829558E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {117B6824-8A2E-4328-99A0-4DFB168FE236}
+	EndGlobalSection
+EndGlobal
